@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+img{
+    position: absolute;
+    left: 25%;
+    width: 500px;
+    height: 500px;
+    border-radius: 1em;
+    box-shadow: black;
+}
+#opciones-form{
+    position: absolute;
+    left: 25%;
+    top: 90%;
+}
